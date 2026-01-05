@@ -1,0 +1,18 @@
+{
+  "apa_itu_PLN": "PLN adalah Perusahaan Listrik Negara (BUMN) yang bertugas menyediakan layanan ketenagalistrikan di Indonesia, mencakup pembangkitan, transmisi, distribusi, dan pelayanan pelanggan.",
+  "bayar_tagihan": "Anda bisa membayar tagihan listrik melalui bank, ATM, internet/mobile banking, minimarket, e-wallet, virtual account, atau aplikasi PLN Mobile.",
+  "cek_tagihan": "Untuk mengecek tagihan listrik, gunakan PLN Mobile (menu Tagihan) atau situs resmi PLN. Anda juga dapat melihat riwayat tagihan dan status pembayaran di aplikasi.",
+  "gangguan": "Untuk gangguan, laporkan via PLN Mobile (menu Pengaduan) atau hubungi 123 yang tersedia 24 jam.",
+  "layanan_PLN": "PLN menyediakan layanan sambungan baru, tambah daya, cek dan bayar tagihan, pengaduan dan informasi gangguan/pemadaman, token prabayar, serta informasi tarif. Layanan tersedia melalui PLN Mobile, situs resmi PLN, dan kanal resmi lainnya.",
+  "pemeliharaan": "Informasi pemadaman listrik (terencana/insidental) dapat dicek di PLN Mobile (menu Info Pemadaman) atau situs resmi PLN. Detail wilayah terdampak, jadwal mulai/selesai, dan estimasi penormalan ditampilkan di aplikasi. Untuk keadaan darurat, hubungi 123.",
+  "pengaduan": "Untuk pengaduan, gunakan PLN Mobile (menu Pengaduan) atau hubungi 123. Sertakan ID pelanggan/nomor meter, alamat lengkap, detail kendala, serta foto bila perlu. Status penanganan dapat dipantau di aplikasi.",
+  "penutup": "Terima kasih telah menghubungi PLN. Jika ada pertanyaan lain, silakan hubungi kembali.",
+  "perkenalan": "Saya adalah asisten virtual PLN yang siap membantu pertanyaan Anda.",
+  "pindah_tiang": "Permohonan pemindahan/relokasi tiang listrik dapat diajukan melalui PLN Mobile (menu Pengaduan atau Permohonan sesuai ketersediaan wilayah). Sertakan detail lokasi, foto kondisi, dan koordinat. Biaya mengacu pada ketentuan setelah survei. Jadwal survei dan pekerjaan akan diinformasikan melalui aplikasi.",
+  "pln_mobile": "PLN Mobile adalah aplikasi resmi PLN untuk cek/bayar tagihan, pengaduan, informasi pemadaman, permohonan sambungan baru, tambah daya, pembelian token prabayar, dan notifikasi layanan. Unduh di Play Store atau App Store, lalu daftar dan login dengan data Anda.",
+  "salam": "Hai, selamat datang di layanan informasi PLN. Apa yang ingin Anda ketahui?",
+  "sambungan_baru": "Permohonan sambungan baru dapat diajukan melalui PLN Mobile (menu Permohonan/Sambungan Baru) dengan menyiapkan data identitas dan alamat lengkap. Biaya, jadwal survei, dan status permohonan akan ditampilkan di aplikasi.",
+  "tambah_daya": "Permohonan tambah daya diajukan melalui PLN Mobile (menu Tambah Daya) dengan menyiapkan data identitas, alamat, dan daya yang diminta. Biaya, jadwal survei, dan status permohonan akan ditampilkan di aplikasi.",
+  "tarif": "Informasi tarif listrik dapat dilihat di situs resmi PLN atau aplikasi PLN Mobile, sesuai golongan tarif dan daya. Perubahan tarif mengikuti ketentuan pemerintah; cek pembaruan terbaru di kanal resmi.",
+  "token": "Untuk isi token, beli melalui bank/ATM, internet atau mobile banking, minimarket, e-wallet, marketplace, atau aplikasi PLN Mobile. Masukkan 20 digit kode token ke meter prabayar hingga tampil 'ACCEPT' dan kWh bertambah. Cek sisa kWh pada layar meter atau di PLN Mobile."
+}

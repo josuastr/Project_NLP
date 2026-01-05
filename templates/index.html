@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PLN Chatbot Asisten</title>
+
+    <!-- Favicon dengan beberapa format -->
+    <link rel="icon" type="image/png" href="/static/PLN_logo.png" />
+    <link rel="icon" type="image/svg+xml" href="/static/PLN_logo.svg" />
+    <link rel="apple-touch-icon" href="/static/PLN_logo.png" />
+    <link rel="shortcut icon" href="/static/PLN_logo.ico" />
+
+    <!-- Fonts & Styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+
+  <body>
+    <div class="chat-container">
+      <header class="chat-header">
+        <div class="logo">
+          <img
+            src="/static/PLN_logo.svg"
+            alt="Logo PLN"
+            style="width: 32px; height: 32px"
+          />
+        </div>
+        <div class="header-info">
+          <div class="header-title">PLN Chatbot Asisten</div>
+          <div class="header-subtitle">Online</div>
+        </div>
+        <div class="status-indicator"></div>
+      </header>
+
+      <main class="chat-messages" id="chatMessages">
+        <div class="message bot">
+          <div class="bot-avatar">AI</div>
+          <div class="message-bubble">
+            Halo! Saya Asisten Virtual PLN. Ada yang bisa saya bantu?
+          </div>
+        </div>
+      </main>
+
+      <footer class="chat-input-area">
+        <div class="input-container">
+          <textarea
+            class="message-input"
+            placeholder="Ketik pesan Anda..."
+            id="messageInput"
+            rows="1"
+          ></textarea>
+          <button class="send-button" id="sendButton" aria-label="Kirim">
+            <svg
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M22 2L11 13M22 2L15 22L11 13M22 2L2 9L11 13"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+  </body>
+</html>
